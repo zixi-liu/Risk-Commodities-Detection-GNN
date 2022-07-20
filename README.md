@@ -2,6 +2,12 @@
 
 This repository contains baseline GNN models and playground for SOTA models on risk commodities detection. 
 
+**Resources:**
+
+- [DGL](https://github.com/dglai)
+- [OpenHGNN](https://github.com/BUPT-GAMMA/OpenHGNN)
+- [PyG](https://github.com/pyg-team/pytorch_geometric)
+
 **ICDM 2022 : Risk Commodities Detection on Large-Scale E-commerce Graphs**
 
 The competition provides a risk commodity detection dataset extracted from real-world risk scenarios at Alibaba. It requires participants to detect risky products using graph algorithms in a large-scale and heterogeneous graph with imbalanced samples.
