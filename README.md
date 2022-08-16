@@ -1,6 +1,6 @@
 # Risk-Commodities-Detection-GNN
 
-This repository contains baseline GNN models and playground for SOTA models on risk commodities detection. 
+This repository contains baseline GNN models [provided by committee] and playground for SOTA models on risk commodities detection. 
 
 **Resources:**
 
